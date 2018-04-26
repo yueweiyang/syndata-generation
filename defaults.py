@@ -2,7 +2,7 @@
 # Fill this according to own setup
 BACKGROUND_DIR = 'demo_data_dir/backgrounds/'
 BACKGROUND_GLOB_STRING = '*.png'
-POISSON_BLENDING_DIR = '/usr1/debidatd/pb'
+POISSON_BLENDING_DIR = '/Users/yueweiyang/Documents/study/pfister project/pb'
 SELECTED_LIST_FILE = 'demo_data_dir/selected.txt'
 DISTRACTOR_LIST_FILE = 'demo_data_dir/neg_list.txt' 
 DISTRACTOR_DIR = 'demo_data_dir/distractor_objects_dir/'
